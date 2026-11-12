@@ -1,0 +1,115 @@
+,coef
+cat__subindustry_Apparel and Cosmetics,-0.42645062565648006
+cat__subindustry_Manufacturing and Robotics,-0.4262917622613694
+cat__industry_Consumer,-0.38107081475097493
+cat__country_infrequent_sklearn,-0.3770166670578711
+num__batch_year,-0.3422977480880897
+cat__subindustry_Human Resources,-0.31226765478425395
+cat__subindustry_Healthcare Services,-0.31009643533661596
+cat__subindustry_Consumer Health and Wellness,-0.2521942663783512
+cat__subindustry_Office Management,-0.24609285753818153
+num__n_locations,-0.2297009273586691
+cat__subindustry_Social,-0.21725558505061013
+num__n_former_names,-0.2146490150784152
+"cat__subindustry_Engineering, Product and Design",-0.19430246668593143
+cat__subindustry_infrequent_sklearn,-0.19098206823661976
+cat__subindustry_Banking and Exchange,-0.18648375463395625
+num__tag_marketing,-0.17370580446841963
+cat__industry_Industrials,-0.1609642035853956
+cat__industry_Real Estate and Construction,-0.15650058216153637
+num__tag_hardware,-0.14427887552051002
+cat__country_United Kingdom,-0.1384946739348636
+cat__subindustry_Retail,-0.12677071450468919
+cat__subindustry_Food and Beverage,-0.12145367848678537
+cat__subindustry_Recruiting and Talent,-0.11037518635225421
+num__tag_social,-0.10787932246744307
+num__has_description,-0.10645825287378513
+cat__subindustry_Finance and Accounting,-0.10030266628072051
+cat__subindustry_Diagnostics,-0.09618152807522318
+num__tld_co,-0.09256597521558109
+num__tag_health_tech,-0.09088658982496899
+num__name_length,-0.0853247469908471
+cat__subindustry_Housing and Real Estate,-0.08091592920763786
+num__tag_logistics,-0.07924937167458626
+num__tag_consumer_health_services,-0.07776474541077044
+num__is_nonprofit,-0.07723132899288707
+num__tag_healthcare,-0.06842866690402853
+num__tag_education,-0.06759520440517529
+num__tag_climate,-0.065430858697631
+num__tag_marketplace,-0.054777854930522445
+num__tag_messaging,-0.044116405589965
+cat__subindustry_Consumer Finance,-0.04016549286485641
+num__tag_biotech,-0.03599368242309466
+num__tag_productivity,-0.028996890629548258
+num__tld_ai,-0.023933325730014273
+num__region_latin_america,-0.02374978672884089
+num__name_words,-0.0219392562183226
+num__is_nyc,-0.017548950572944092
+num__tag_e_commerce,-0.01742522692717299
+num__region_africa,-0.014950170989549701
+num__tag_digital_health,-0.013206930595758795
+cat__subindustry_Productivity,-0.004780134940981245
+cat__subindustry_Gaming,-0.00042415361026164875
+num__has_app_video,0.001652768758265437
+cat__country_India,0.001724893824602038
+num__n_industries,0.002429346243199872
+num__description_words,0.00445795817888634
+num__tags_count,0.010562989272920495
+num__region_south_asia,0.011866621423047397
+num__tag_video,0.012708492945733783
+num__is_winter_batch,0.014055585673666313
+num__region_middle_east_and_north_africa,0.016871339618192437
+cat__country_United States of America,0.019561288320786335
+cat__industry_Fintech,0.024855402107342835
+num__tag_gaming,0.03405700887008326
+cat__industry_Healthcare,0.03429800105430109
+num__is_usa,0.034833384087662865
+num__tld_io,0.048114383327136634
+num__tag_machine_learning,0.05147342554084142
+num__tag_developer_tools,0.056818479057680796
+num__tag_ai,0.0602567820538177
+num__tag_iot,0.061813204085866366
+"cat__subindustry_Travel, Leisure and Tourism",0.06431280923900108
+num__tld_com,0.06864901484852493
+num__tag_api,0.07757811800937278
+num__is_bay_area,0.07788440477724196
+num__name_has_digit,0.07811691301496408
+num__tag_b2b,0.07861887247263062
+num__tld_org,0.0803417509567265
+cat__subindustry_Payments,0.08047654054630118
+num__has_question_answers,0.08262974463464189
+num__tag_recruiting,0.09460126732534381
+cat__subindustry_Operations,0.09729309589077648
+cat__subindustry_Transportation Services,0.09899783516586542
+cat__subindustry_Analytics,0.10156999048126687
+num__region_southeast_asia,0.11182144925905245
+cat__subindustry_Home and Personal,0.11464840803658766
+num__tag_payments,0.11845636967530238
+num__tag_real_estate,0.12437838025163905
+cat__subindustry_Content,0.14849094903196844
+num__one_liner_len,0.15128675421518953
+num__region_america_canada,0.1644719624874974
+num__tag_saas,0.1673772799553439
+num__region_europe,0.1727559915248329
+num__tag_fintech,0.1730784677466382
+cat__subindustry_Marketing,0.17519902065487752
+cat__subindustry_Education,0.17653866857766995
+cat__industry_Education,0.17653866857766995
+num__has_website,0.18609953159915357
+num__tag_analytics,0.1876899723327514
+cat__industry_B2B,0.188920603828817
+cat__country_Unspecified,0.2232914946656128
+num__tag_consumer,0.22638842319977778
+num__has_demo_day_video,0.24000290466221094
+num__has_partner,0.24285266777104636
+num__has_location,0.27077200654071676
+cat__country_Canada,0.2787682587107727
+cat__industry_infrequent_sklearn,0.28175751945881516
+cat__subindustry_Infrastructure,0.282078907989236
+num__region_east_asia,0.2860515009052351
+cat__subindustry_Sales,0.3370759035645997
+cat__subindustry_Security,0.40825306895663055
+num__description_len_log,0.4111990546847648
+cat__subindustry_Consumer Electronics,0.5385194908423291
+num__has_logo,0.6310850555069192
+cat__subindustry_Healthcare IT,0.8281668664377088
