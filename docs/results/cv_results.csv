@@ -1,0 +1,23 @@
+task,features,model,n,pos_rate,roc_auc,pr_auc,bal_acc,f1,roc_auc_std
+exit,A,Dummy (majority),1214,0.459,0.5,0.4588,0.5,0.0,0.0
+exit,A,Logistic Regression,1214,0.459,0.6453,0.6051,0.6108,0.5814,0.0302
+exit,A,Random Forest,1214,0.459,0.6595,0.6097,0.6125,0.5879,0.025
+exit,A,Gradient Boosting,1214,0.459,0.6414,0.5903,0.6034,0.5762,0.0229
+exit,A+B,Logistic Regression,1214,0.459,0.7197,0.6883,0.6701,0.6459,0.0319
+exit,A+B,Random Forest,1214,0.459,0.7312,0.6946,0.6697,0.6472,0.0178
+exit,A+B,Gradient Boosting,1214,0.459,0.7183,0.6784,0.66,0.6344,0.0183
+exit,A+B+C,Logistic Regression,1214,0.459,0.7726,0.7754,0.7101,0.6801,0.0301
+exit,A+B+C,Random Forest,1214,0.459,0.7849,0.7863,0.7065,0.6726,0.019
+exit,A+B+C,Gradient Boosting,1214,0.459,0.7777,0.777,0.7152,0.6827,0.0228
+exit,text (B),TF-IDF + LogReg,1214,0.459,0.6576,0.6228,0.6196,0.5911,0.0245
+survival,A,Dummy (majority),2034,0.677,0.5,0.677,0.5,0.8074,0.0
+survival,A,Logistic Regression,2034,0.677,0.7058,0.8294,0.6514,0.7048,0.0215
+survival,A,Random Forest,2034,0.677,0.7195,0.8322,0.6543,0.7309,0.0245
+survival,A,Gradient Boosting,2034,0.677,0.7195,0.8387,0.6607,0.7173,0.0247
+survival,A+B,Logistic Regression,2034,0.677,0.7925,0.8837,0.7256,0.7887,0.0179
+survival,A+B,Random Forest,2034,0.677,0.8073,0.8906,0.7462,0.8121,0.0207
+survival,A+B,Gradient Boosting,2034,0.677,0.804,0.8915,0.7345,0.8037,0.0185
+survival,A+B+C,Logistic Regression,2034,0.677,0.846,0.9248,0.7673,0.8048,0.0142
+survival,A+B+C,Random Forest,2034,0.677,0.8594,0.9293,0.7793,0.8224,0.0151
+survival,A+B+C,Gradient Boosting,2034,0.677,0.8567,0.9293,0.7788,0.8257,0.0148
+survival,text (B),TF-IDF + LogReg,2034,0.677,0.6906,0.8203,0.6374,0.742,0.0221

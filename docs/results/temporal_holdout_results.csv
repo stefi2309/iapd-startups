@@ -1,0 +1,17 @@
+task,features,model,n_train,n_test,roc_auc,pr_auc,bal_acc,f1
+exit,A,Dummy (majority),683,531,0.5,0.4237,0.5,0.0
+exit,A,Logistic Regression,683,531,0.6174,0.5333,0.5847,0.5242
+exit,A,Random Forest,683,531,0.6507,0.5638,0.6263,0.6223
+exit,A,Gradient Boosting,683,531,0.6423,0.563,0.5922,0.5789
+exit,A+B,Dummy (majority),683,531,0.5,0.4237,0.5,0.0
+exit,A+B,Logistic Regression,683,531,0.6438,0.5425,0.6082,0.5642
+exit,A+B,Random Forest,683,531,0.699,0.598,0.6157,0.6218
+exit,A+B,Gradient Boosting,683,531,0.6796,0.5674,0.6446,0.6193
+survival,A,Dummy (majority),924,1110,0.5,0.7243,0.5,0.8401
+survival,A,Logistic Regression,924,1110,0.6618,0.8339,0.6201,0.7455
+survival,A,Random Forest,924,1110,0.6878,0.8357,0.6348,0.8228
+survival,A,Gradient Boosting,924,1110,0.6837,0.8375,0.6192,0.8049
+survival,A+B,Dummy (majority),924,1110,0.5,0.7243,0.5,0.8401
+survival,A+B,Logistic Regression,924,1110,0.7275,0.8627,0.641,0.796
+survival,A+B,Random Forest,924,1110,0.7626,0.8746,0.6595,0.8565
+survival,A+B,Gradient Boosting,924,1110,0.7403,0.8643,0.6579,0.8354
